@@ -1,0 +1,7 @@
+{
+  "name": "Noir Browser",
+  "description": "Browser minimalis hitam-putih dengan AdBlocker, Mode Hemat Data, dan Sinkronisasi Aman.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
